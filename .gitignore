@@ -91,6 +91,7 @@ cache/
 *runtime*/
 main79_outputs/
 main79_stack_bundle/
+Main79 - Classical + Residual/
 
 # Log files
 *.log
